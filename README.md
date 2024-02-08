@@ -12,6 +12,6 @@
 
 ### Автор
 
-Копотев Лев
-@lever37
+Копотев Лев  
+@lever37  
 ![Telegram](Telegram.jpeg)
